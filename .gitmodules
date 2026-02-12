@@ -10,3 +10,6 @@
 [submodule "growup-docs"]
 	path = growup-docs
 	url = https://github.com/AbiPol/growup-docs.git
+[submodule "growup-logos-imagenes"]
+	path = growup-logos-imagenes
+	url = https://github.com/AbiPol/growup-logos-imagenes.git
