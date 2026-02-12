@@ -7,3 +7,6 @@
 [submodule "growup-ops"]
 	path = growup-ops
 	url = https://github.com/AbiPol/growup-ops.git
+[submodule "growup-docs"]
+	path = growup-docs
+	url = https://github.com/AbiPol/growup-docs.git
