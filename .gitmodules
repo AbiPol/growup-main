@@ -4,3 +4,6 @@
 [submodule "growup-backend"]
 	path = growup-backend
 	url = https://github.com/AbiPol/growup-backend.git
+[submodule "growup-ops"]
+	path = growup-ops
+	url = https://github.com/AbiPol/growup-ops.git
