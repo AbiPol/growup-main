@@ -1,0 +1,3 @@
+[submodule "growup-frontend"]
+	path = growup-frontend
+	url = https://github.com/AbiPol/growup-frontend.git

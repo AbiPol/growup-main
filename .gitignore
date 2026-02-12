@@ -1,0 +1,12 @@
+# Carpetas de dependencias (por si acaso)
+node_modules/
+dist/
+build/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Variables de entorno (¡Seguridad!)
+.env
+.env.local
