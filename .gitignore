@@ -1,4 +1,29 @@
-# Carpetas de dependencias (por si acaso)
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.settings/
+.project
+.classpath
+.factorypath
+
+# VS Code
+.vscode/
+.history/
+
+# Node / Angular / React (Frontend)
 node_modules/
 dist/
 build/
