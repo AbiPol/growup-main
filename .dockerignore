@@ -11,6 +11,10 @@
 .claude/
 skills-lock.json
 
+# OpenCode agents (the real agents)
+.opencode/agents/
+agents.md
+
 # Documentation assets
 growup-docs/
 growup-logos-imagenes/
