@@ -30,3 +30,6 @@ growup-logos-imagenes/
 # OS files
 **/.DS_Store
 **/Thumbs.db
+
+# Agent configuration (private repo)
+.opencode
