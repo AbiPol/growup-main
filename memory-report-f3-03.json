@@ -1,0 +1,11 @@
+TIPO: TAREA
+TITULO: F3-03 - Configurar base de datos separada growup_auth
+DESCRIPTION: |
+  Configuración de Flyway para el módulo growup-auth:
+  - Creado script V1__init_users.sql con tabla users y índices
+  - Añadidas dependencias flyway-core y flyway-database-postgresql al pom.xml
+  - Actualizado application.yml con configuración flyway
+  - Compilación exitosa verificada
+  
+AREA: Backend
+TAGS: flyway|migration|postgresql|auth
